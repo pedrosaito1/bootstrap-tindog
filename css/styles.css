@@ -129,6 +129,18 @@ p {
     margin: 20px;
 }
 
+/* Press section */
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
 @media (max-width: 1100px) {
 
     /* Headings */
