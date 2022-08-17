@@ -14,14 +14,14 @@ p {
 /* Headings */
 
 .big-heading {
-    font-family: "Montserrat", sans-serif;
     font-size: 3.5rem;
-    font-weight: 700;
+    font-weight: 900;
     line-height: 1.5;
 }
 
 .section-heading {
     font-size: 3rem;
+    font-weight: 400;
     line-height: 1.5;
 }
 
@@ -51,7 +51,7 @@ p {
 .navbar-brand {
     font-family: "Ubuntu", sans-serif;
     font-size: 2.5rem;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .nav-item {
@@ -60,7 +60,7 @@ p {
 
 .nav-link {
     font-size: 1.2rem;
-    font-weight: lighter;
+    font-weight: 400;
 }
 
 /* Download Buttons */
@@ -120,6 +120,7 @@ p {
 
 .testimonial-text {
     font-size: 3rem;
+    font-weight: 700;
     line-height: 1.5;
 }
 
@@ -149,6 +150,7 @@ p {
 
 .price-text {
     font-size: 3rem;
+    font-weight: 700;
     line-height: 1.5;
 }
 
@@ -167,6 +169,7 @@ p {
     /* Headings */
     .big-heading {
         font-size: 3rem;
+        font-weight: 700;
     }
 
     /* Title Section */
