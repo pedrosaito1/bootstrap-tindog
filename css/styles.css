@@ -156,6 +156,12 @@ p {
     padding: 3% 2%;
 }
 
+/* Footer Section */
+
+.social-icon {
+    margin: 20px 10px;
+}
+
 @media (max-width: 1100px) {
 
     /* Headings */
